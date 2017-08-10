@@ -2,4 +2,4 @@
 
 ## Topics:
 
-- [Publish a Project on GitHub](publish-a-project-on-github.md)
+- [Publish a Project on GitHub](/topics/publish-a-project-on-github.md)
